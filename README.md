@@ -1,2 +1,2 @@
-# Repositório do desafio de Git/Githib do curso de formação Quality Assurance da DIO
-Desafio de codigo sobre git/github
+# Formação Quality Assurance DIO
+Repositório criado durante o curso de formação de quality assurance da DIO
